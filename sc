@@ -4,7 +4,7 @@ local items_list = {
         {
             "category": 0001,
             "id": 0001,
-            "name": "Fn95BjafuGT84"
+            "sc": "Fn95BjafuGT84"
         }
     ]
 }
