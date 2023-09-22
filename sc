@@ -1,4 +1,4 @@
-local items_list = { 
+local sc = { 
 {
     "items": [
         {
